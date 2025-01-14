@@ -1,4 +1,4 @@
-# rahasade-peli
+# Rahasade-peli
 
 Ohjeet:
 
